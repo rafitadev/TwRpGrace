@@ -1,4 +1,4 @@
-# TWRP device tree for Samsung Note 7 FE aka gracerlte
+# TWRP device tree for Samsung Note 7 Gracelte
 
  Copyright (C) 2020 Ananjaser1211 Open-source
 
